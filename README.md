@@ -1,2 +1,2 @@
 # S7-AdvancedAI
-S7 Advanced AI exercises
+Collection of all the exercises made for the Advanced AI semester.
